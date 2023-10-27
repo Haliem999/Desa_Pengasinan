@@ -23,51 +23,22 @@ import Sidebar from "../components/Sidebar.vue";
           1. Meningkatkan pembangunan infrastruktur yang mendukung perekonomian desa, seperti jalan, jembatan serta infrastruktur lainnya;
         </li>
         <li>
-          2. Meningkatkan dan memantapkan system perencanaan pembangunan desa
-          melalui pengoptimalan mekanisme musyawarah pembangunan desa dengan
-          melibatkan seluruh steackholder yang ada;
+          2. Meningkatkan pembangunan di bidang kesehatan untuk mendorong derajat kesehatan masyarakat agar dapat bekerja lebih optimal dan memiliki harapan hidup yang lebih panjang.;
         </li>
         <li>
-          3. Membuat skala prioritas untuk kegiatan-kegiatan pembangunan yang
-          akan dilaksanakan baik pembangunan fisik atau non fisik, seperti
-          infrastruktur, perekonomian, keagamaan, Pendidikan dan kesehatan;
+          3. Meningkatkan pembangunan di bidang pendidikan untuk mendorong peningkatan kualitas sumber daya manusia agar memiliki kecerdasan dan daya saing yang lebih baik. ;
         </li>
         <li>
-          4. Meningkatkan kemampuan dan peran serta aktif masyarakat dalam
-          mengelola pembangunan berkelanjutan secara efisisen dan efektif dengan
-          memanfaatkan potensi sumber daya yang ada, baik sumber daya alam
-          maupun sumberdaya manusia;
+          4. Meningkatkan pembangunan ekonomi dengan mendorong semakin tumbuh dan berkembangnya pembangunan di bidang pertanian dalam arti luas, industri, perdagangan dan pariwisata.;
         </li>
         <li>
-          5. Meningkatkan kemampuan dan pemberdayaan Lembaga-lembaga
-          kemasyarakatan yang ada didesa atau lebih mendinamisasi dan mendukung
-          seluruh proses pembangunan;
+          5. Menciptakan tata kelola pemerintahan yang baik (good governance) berdasarkan demokratisasi, transparansi, penegakan hukum, berkeadilan, kesetaraan gender dan mengutamakan pelayanan kepada masyarakat.;
         </li>
         <li>
-          6. Mendorong majunya Pendidikan formal maupun nonformal seperti
-          pesantren, LPK, diklat serta penyuluhan pertanian yang mudah diakses
-          dan dinikmati seluruh warga masyarakat, guna menghasilkan insan
-          intelektual, berakhlak mulia, inovatif dan entrepreneur;
+          6. Menciptakan sinergi antara Pemerintahan Desa dengan semua unsur masyarakat, mengedepankan Musyawarah dan gotong royong untuk terciptanya pembangunan yang merata dan Adil berdasarkan demokrasi;
         </li>
+      
         <li>
-          7. Menyalurkan segala bentuk bantuan dari Pemerintah Kabupaten,
-          Provinsi dan Pusat sesuai dengan peruntukannya dan mencegah terjadinya
-          penyimpangan dan kebocoran;
-        </li>
-        <li>
-          8. Menjalin sinergitas dengan instansi atau Lembaga terkait dan pihak
-          swasta guna optimalisasi suatu tujuan lebih baik dan lebih maksimal;
-        </li>
-        <li>
-          9. Responsive dan aspiratif atas segala bentuk kebutuhan atau
-          keinginan dan permasalahan yang terjadi ditengah masyarakat yang
-          majemuk dan dinamis;
-        </li>
-        <li>
-          10. Membina dan memantapkankehidupan gotong royongsebagai basis dan
-          modal dasar pembangunan desa, yang pada hakikatnyajuga merupakan
-          karakter dasar dari masyarakat desa dan juga bangsa Indonesia.
-        </li>
       </ul>
     </div>
   </main>
