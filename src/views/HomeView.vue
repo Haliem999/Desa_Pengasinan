@@ -15,16 +15,12 @@ import Sidebar from "../components/Sidebar.vue";
       <p class="text-3xl font-semibold">Visi & Misi Desa</p>
       <p class="text-lg font-semibold">Visi</p>
       <p>
-        “Terwujudnya Desa Setu Yang Sejahtera dan Mandiri, ditopang Kinerja
-        Aparatur yang Profesional dalam Kerangka Budaya Bangsa didasari Keimanan
-        dan Ketaqwaan”
+        “Terwujudnya Pengasinan sebagai Desa yang MANDIRI, dan MAJU untuk mencapai masyarakat yang SEHAT, CERDAS, KREATIF, BERAKHLAK MULIA dengan mengutamakan MUSYAWARAH dan GOTONG ROYONG serta bersinergi dengan semua unsur masyarakat.”
       </p>
       <p class="text-lg font-semibold">Misi</p>
       <ul>
         <li>
-          1. Mengembangkan system Pemerintahan Desa yang bersih dan profesional
-          serta berorientasi pada pelayanan publik dengan prinsif kerja ikhlas,
-          lakukan sekarang dan siap turun ke lapangan;
+          1. Meningkatkan pembangunan infrastruktur yang mendukung perekonomian desa, seperti jalan, jembatan serta infrastruktur lainnya;
         </li>
         <li>
           2. Meningkatkan dan memantapkan system perencanaan pembangunan desa
