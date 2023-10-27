@@ -39,7 +39,7 @@ import Sidebar from "../components/Sidebar.vue";
         </li>
       
       </ul>
-    </div>
+    
      <div class="footer">
         <p class="copy"> copyright 2023 </p>
   </main>
