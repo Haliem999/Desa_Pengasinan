@@ -38,7 +38,6 @@ import Sidebar from "../components/Sidebar.vue";
           6. Menciptakan sinergi antara Pemerintahan Desa dengan semua unsur masyarakat, mengedepankan Musyawarah dan gotong royong untuk terciptanya pembangunan yang merata dan Adil berdasarkan demokrasi;
         </li>
       
-        <li>
       </ul>
     </div>
   </main>
