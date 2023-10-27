@@ -39,9 +39,8 @@ import Sidebar from "../components/Sidebar.vue";
         </li>
       
       </ul>
-    
-     <div class="footer">
-        <p class="copy"> copyright 2023 </p>
+    </div>
+
   </main>
 </template>
 
