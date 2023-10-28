@@ -1,5 +1,5 @@
 <template>
-  <div class="bg-green-600 h-[300px] flex">
+  <div class="#00008B-600 h-[300px] flex">
     <img
       src="@/assets/logo-bogor.png"
       class="w-45 h-50 opacity-60 m-20"
