@@ -6,10 +6,10 @@
       alt=""
     />
     <div class="ml-10 flex flex-col justify-center">
-      <p class="text-white text-2xl mb-2">Profile Desa</p>
+      <p class="text-black text-2xl mb-2">Profile Desa</p>
       <!-- Sesuaikan nama desa masing-masing -->
-      <p class="text-white text-3xl">Desa Pengasinan</p>
-      <p class="text-white text-3xl">Kab. Bogor</p>
+      <p class="text-black text-3xl">Desa Pengasinan</p>
+      <p class="text-black text-3xl">Kab. Bogor</p>
     </div>
     <div class="grid place-items-center ml-auto mr-20">
       <iframe
